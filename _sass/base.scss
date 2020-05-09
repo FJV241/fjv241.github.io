@@ -51,6 +51,8 @@ li {
 
 header {
   background: rgba(0, 0, 0, 0.1);
+  margin-right: 10px;
+  margin-left: 10px;
   border-bottom: 1px dashed $conifer;
   padding: 20px;
   margin: 0 0 40px 0;
@@ -272,7 +274,8 @@ footer {
   height: 50px;
   line-height: 50px;
   text-align: right;
-  margin-right: 10px
+  margin-right: 10px;
+  margin-left: 10px;
   border-top: 1px dashed $conifer;
 }
 
