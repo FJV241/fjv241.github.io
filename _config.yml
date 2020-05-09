@@ -25,3 +25,5 @@ plugins:
 
 owner : "FJV241"
 year : "2020"
+
+theme: jekyll-theme-midnight
