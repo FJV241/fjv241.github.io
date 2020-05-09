@@ -57,8 +57,7 @@ header {
 }
 
 .header-links {
-  text-align: right;
-  margin-right: 0;
+  text-align: left;
 }
 
 .header-link {
@@ -272,7 +271,7 @@ a:active, a:focus {
 footer {
   height: 50px;
   line-height: 50px;
-  text-align: right;
+  text-align: left;
   border-top: 1px dashed $conifer;
 }
 
