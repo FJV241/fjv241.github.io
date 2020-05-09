@@ -1,6 +1,6 @@
 ---
-Title: Hello World  
-Tags: note 
+title: Hello World  
+tags: note 
 ---
 
 Hello World!
