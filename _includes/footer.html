@@ -1,0 +1,17 @@
+<footer>
+
+  <style type="text/css">
+    a:link,a:visited{
+     text-decoration:none;}
+    a:hover{
+     text-decoration:none;}
+  </style>
+
+  <a href="https://www.github.com/FJV241">
+    <span>
+        <b>{{ site.owner}}</b>
+    </span>
+    {% capture currentyear %}{{ 'now' | date: "%Y" }}{% endcapture %}
+    <span>© {{ currentyear }}</span>
+  </a>
+</footer>
